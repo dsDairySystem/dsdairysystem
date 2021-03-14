@@ -1,0 +1,108 @@
+html,body {
+	/*background-color: #caf0f8;*/
+	background-color: #fff;
+	font-family: Quicksand;
+	/*height: 100%;*/
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-family: Raleway;
+}
+
+#Introduction {
+	background-color: #caf0f8;
+	/*height: 50rem;*/
+	/*height: 100%;*/
+}
+/*nav {
+	background-color: #00b4d8;
+}*/
+
+#title .container-fluid {
+  padding: 3%;
+}
+
+/*.col1 {
+	padding: 5%;
+}
+.col2 {
+	padding: 5% 10%;
+}*/
+/* Title Image */
+.play-btn {
+	width: 35%;
+}
+.title-image {
+  width: 55%;
+  transform: rotate(25deg);
+  padding: 3% ;
+  /*position: absolute;*/
+  /*right: 30%;*/
+}
+
+.card{
+	padding: 3%;
+}
+.card:hover{
+    background-color: #F8F8F8;
+}
+.card-title{
+	font-family: Raleway;
+}
+.card-text {
+
+}
+
+/*Service-Grid*/
+#Service-Grid {
+	padding: 3% 10%;
+}
+/*About-us*/
+#About-us {
+	padding: 3%;
+	background-color: #caf0f8;
+}
+#logo {
+	/*width: 40%;*/
+	height: 50px;
+	width: 50px;
+}
+.About-us-content{
+	font-size: 1.2rem;
+}
+/*Download*/
+#Download {
+	padding: 3%;
+	background-color: #ADD1E7;
+}
+/*Testimonial*/
+#Testimonial {
+  background-color: #caf0f8;
+}
+
+.testimonial-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item {
+	padding: 10%;
+}
+/*contact*/
+#contact{
+	padding: 5%;
+}
+.cnt-txt {
+	color: #000;
+}
+/*Copyright*/
+#Copyright {
+	/*background-color: #ADD1E7;*/
+	padding: 1%;
+}
